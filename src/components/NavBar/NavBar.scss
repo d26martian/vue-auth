@@ -1,0 +1,12 @@
+.navbar {
+
+  &__info {
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  &__btn {
+    color: #fff;
+  }
+}

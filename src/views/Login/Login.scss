@@ -1,0 +1,17 @@
+.login {
+
+  &__item {
+    display: flex;
+    flex-direction: column;
+
+  }
+
+  .card-body {
+    padding: 2rem 4rem;
+  }
+
+  &__btn-group {
+    display: flex;
+    justify-content: space-between;
+  }
+}
